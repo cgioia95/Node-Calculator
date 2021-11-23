@@ -1,2 +1,2 @@
 # Node-Calculator
-Simple additon and BMI calculator, implements node js and utilises a backend server for calculator logic. 
+Simple additon and BMI calculator, implements NodeJS and utilises a backend server for calculator logic. 
